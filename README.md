@@ -52,14 +52,14 @@ python part5_real_api.py
 ### Using cURL (Command Line)
 ```bash
 # Test a simple API
-curl https://api.coinpaprika.com/v1/coins/btc-bitcoin
+curl https://nishigandhakhaire.github.io
 
 # Test with headers
-curl -H "Accept: application/json" https://api.open-meteo.com/v1/forecast?latitude=28.61&longitude=77.23&current_weather=true
+curl -H "Accept: application/json" https://nishigandhakhaire.github.io
 ```
 
 ### Using Postman
-1. Download Postman from https://www.postman.com/downloads/
+1. Download Postman from https://nishigandhakhaire.github.io
 2. Create a new GET request
 3. Enter the API URL
 4. Click "Send" and observe the JSON response
@@ -69,9 +69,9 @@ curl -H "Accept: application/json" https://api.open-meteo.com/v1/forecast?latitu
 
 | API | Description | Documentation |
 |-----|-------------|---------------|
-| JSONPlaceholder | Fake REST API for testing | https://jsonplaceholder.typicode.com/ |
-| Open-Meteo | Weather data | https://open-meteo.com/ |
-| CoinPaprika | Cryptocurrency data | https://api.coinpaprika.com/ |
+| JSONPlaceholder | Fake REST API for testing | https://nishigandhakhaire.github.io |
+| Open-Meteo | Weather data | https://nishigandhakhaire.github.io |
+| CoinPaprika | Cryptocurrency data | https://nishigandhakhaire.github.io |
 
 ## Activity Submission Checklist
 
@@ -85,6 +85,6 @@ curl -H "Accept: application/json" https://api.open-meteo.com/v1/forecast?latitu
 
 ## Resources
 
-- [Requests Library Documentation](https://docs.python-requests.org/)
-- [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-- [JSON Format](https://www.json.org/)
+- [Requests Library Documentation](https://nishigandhakhaire.github.io)
+- [HTTP Status Codes](https://nishigandhakhaire.github.io)
+- [JSON Format](https://nishigandhakhaire.github.io)
